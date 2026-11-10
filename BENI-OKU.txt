@@ -1,0 +1,22 @@
+ANKARA PETEK TEMİZLEME
+
+Siteyi açmak için index.html dosyasına çift tıklayın.
+Mobil uyumlu tek sayfalık site: hizmet, süreç, sorular ve iletişim.
+Telefon ve WhatsApp: 0501 013 0102.
+Adres: Bağdemlik Mahallesi Elmalı Sokak 23/18 Keçiören / Ankara.
+Telefon düğmeleri gerçek arama bağlantısıdır. Site randevu kaydetmez;
+randevu ve ücret görüşmesi telefon/WhatsApp üzerinden yapılır.
+
+YAYINLAMA
+Bu klasördeki site dosyalarını sunucunun ana dizinine yükleyin.
+Alan adı belirtilmediği için başka sitenin adresi veya uydurma alan adı
+eklenmedi. Gerçek alan adı belli olduğunda canonical adresleri ve
+Google için sitemap.xml hazırlanmalıdır. Ziyaretçi site haritası hazırdır.
+BENI-OKU.txt ve GORSEL-NOTLARI.txt dosyalarını yayınlamanız gerekmez.
+
+GÖRSEL
+petek-temizligi.png bu site için yapay zekâ ile özgün olarak üretildi.
+Temsili hizmet sahnesidir; gerçek çalışan veya tamamlanmış iş fotoğrafı değildir.
+
+İçerikte doğrulanmamış tasarruf yüzdeleri, müşteri yorumları,
+sertifikalar, sabit fiyat veya aynı gün hizmet garantisi kullanılmadı.
